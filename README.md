@@ -9,6 +9,6 @@ Bem-vindo ao meu repositório! Aqui você encontra meus principais projetos nas 
 - IIoT e Monitoramento Industrial (MQTT, Node-RED)  
 
 ## 🌟 Projetos Destacados 
-Gateway IIoT para envio de dados via POST HTTP em Json. 
+Gateway IIoT baseado em Esp32, para envio de dados via Http no metodo POST, no formato Json. 
 
 📫 Me encontre no [Linked ](https://www.linkedin.com/in/vitor-lucas-zulian/)
