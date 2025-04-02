@@ -7,10 +7,11 @@ a quantidade de entradas e saidas, tanto analógicas como digitais.
 ## 📁 Pasta Code
 #### Nessa pasta se encontra o codigo base para a utilização da placa, nela são abordados exemplos de uso como:
 #### 👉 Conecxão com o wifi.
-#### 👉 Empacotamento e envio de dados no modelo Json.
+#### 👉 Empacotamento de dados no modelo Json.
+#### 👉 Envio de Json para utilizando Http. 
 #### 👉 Controle de entradas digitais. 
 #### 👉 Controle de entradas analógicas (0-20mA).
 #### 👉 Controle de saidas digitais.
-#### 👉 Interface (display I2C)
+#### 👉 Interface (display I2C).
  
 ### 🚀 Para mais informações sobre a placa, acesse a [wiki](https://quark-cheshire-984.notion.site/Placa-ES32A08-11b430802e9780149ee6f4d9852d80ee)
