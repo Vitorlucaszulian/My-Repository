@@ -9,6 +9,6 @@ Bem-vindo ao meu repositório! Aqui você encontra meus principais projetos nas 
 - IIoT e Monitoramento Industrial (MQTT, Node-RED)  
 
 ## 🌟 Projetos Destacados 
-Desenvolvimento de firmware para controle da [placa](Projetos / ESP32 - ES32A08)
+Gateway IIoT para envio de dados via POST HTTP em Json. 
 
 📫 Me encontre no [Linked ](https://www.linkedin.com/in/vitor-lucas-zulian/)
