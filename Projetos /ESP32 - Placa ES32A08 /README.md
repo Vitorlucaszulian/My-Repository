@@ -1,8 +1,8 @@
-# 💻 Bem-vindo ao repositório voltado ao entendimento da placa ES32A08
+# 💻 Gateway IIoT baseado em Esp32. 
 
 ## 🤓 Uma breve esplicação
-A placa de controle ES32A08 é destinada a ser um expansão de IO's para o ESP32, aumentando
-a quantidade de entradas e saidas, tanto analógicas como digitais.
+Nesse projeto utilizamos a placa ES32A08 (Expansão esp32), para criar um gateway IIoT, capaz de receber e enviar dados via POST HTTP. além disso,
+foi explorado as demais funções da placa, para utilizar ao máximo seu potêncial e validar por completo seu funcionamento. 
 
 ## 📁 Pasta Code
 #### Nessa pasta se encontra o codigo base para a utilização da placa, nela são abordados exemplos de uso como:
