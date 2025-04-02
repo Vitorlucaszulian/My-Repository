@@ -11,8 +11,8 @@ Bem-vindo ao meu repositório! Aqui você encontra meus principais projetos nas 
 - IIoT e Monitoramento Industrial (MQTT, Node-RED)  
 
 ## 🌟 Projetos Destacados 
-Gateway IIoT Esp32 - ES32A08
-Gateway IIoT Esp32 - KC868-A6
+##### Gateway IIoT Esp32 - ES32A08
+##### Gateway IIoT Esp32 - KC868-A6
 
 
 
