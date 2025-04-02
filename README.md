@@ -10,4 +10,4 @@ Bem-vindo ao meu repositório! Aqui você encontra meus principais projetos nas 
 
 ## 🌟 Projetos Destacados  
 
-📫 Me encontre no [LinkedIn](https://www.linkedin.com/in/seu-perfil) 
+📫 Me encontre no [Linked ](https://www.linkedin.com/in/vitor-lucas-zulian/)
