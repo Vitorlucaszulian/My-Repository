@@ -12,7 +12,7 @@ Bem-vindo ao meu repositório! Aqui você encontra meus principais projetos nas 
 
 ## 🌟 Projetos Destacados 
 ##### [Gateway IIoT Esp32 - ES32A08](https://github.com/Vitorlucaszulian/Public-Repository/blob/main/Projetos%20/Gateway%20IIoT%20Esp32%20-%20ES32A08%20/README.md)
-##### Gateway IIoT Esp32 - KC868-A6
+##### [Gateway IIoT Esp32 - KC868-A6](https://github.com/Vitorlucaszulian/Public-Repository/blob/main/Projetos%20/Gateway%20IIoT%20Esp32%20-%20KC868-A6%20%20/README.md)
 
 
 
