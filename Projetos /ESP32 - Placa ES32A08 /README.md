@@ -1,4 +1,4 @@
-# 💻 Gateway IIoT baseado em Esp32. 
+# 💻 Gateway IIoT baseado em Esp32 - Placa ES32A08. 
 
 ## 🤓 Uma breve esplicação
 Nesse projeto utilizamos a placa ES32A08 (Expansão esp32), para criar um gateway IIoT, capaz de receber e enviar dados via POST HTTP. além disso,
