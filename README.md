@@ -1,4 +1,4 @@
-# 🚀 Meu Portfólio de Projetos  
+# 🚀Repositorio Público 
 
 Bem-vindo ao meu repositório! Aqui você encontra meus principais projetos nas áreas de automação, robótica e programação.  
 
@@ -9,6 +9,6 @@ Bem-vindo ao meu repositório! Aqui você encontra meus principais projetos nas 
 - IIoT e Monitoramento Industrial (MQTT, Node-RED)  
 
 ## 🌟 Projetos Destacados 
-teste  teste
+Desenvolvimento de firmware para controle da [placa](Projetos / ESP32 - ES32A08)
 
 📫 Me encontre no [Linked ](https://www.linkedin.com/in/vitor-lucas-zulian/)
